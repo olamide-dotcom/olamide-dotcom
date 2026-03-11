@@ -9,10 +9,10 @@ Since the beginning of my journey as a front-end developer nearly 1 year ago, I'
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm attended AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I attended AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript & Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests:Front-end Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests:Front-end Engineer (Intern or Junior level).
 - 📫 You can reach out to through my email ireolami02@gmail.com.
 
 ---
